@@ -1,6 +1,6 @@
 # CoderSchool FTW - * Google News *
 
-Created with effort by: <Vy>
+Created with effort by: Huynh Hoang Vy
 
 Google News  
 
