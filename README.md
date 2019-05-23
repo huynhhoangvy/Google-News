@@ -34,7 +34,7 @@ The following **optional** features are implemented:
 * [x] [ ] Next to the source name, the user sees a number representing the number of stories from that source. To continue the previous example: bbc-news (2), cnn (1), spiegel-de (1).
 * [ ] The user can toggle the checkbox to hide or show stories from that source in the list.
 
-## The following **Rocket Challenges 1** features are completed:
+## The following **Rocket Challenges 2** features are completed:
 
 * [ ] The user can see links or a dropdown that represent the various categories for stories. Selecting on one of these links fetches a new batch of stories of the selected category.
 * [ ] The user should see a new or modified URL, with a query parameter representing the chosen category. For example, clicking on entertainment would add ?category=entertainment to the URL. 
